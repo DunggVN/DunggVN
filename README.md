@@ -10,7 +10,7 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=TienDungVN)
 
-<img src="https://www.icegif.com/wp-content/uploads/icegif-10.gif" width="700" height="193" />
+<img src="https://jobs.hybrid-technologies.vn/wp-content/uploads/2020/06/andy-sm.png" width="440" height="220" />
 
 ## Contact me on:
 - [Telegram](https://t.me/dung0402)
