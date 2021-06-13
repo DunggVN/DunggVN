@@ -7,10 +7,10 @@
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TienDungVN&count_private=true&include_all_commits=true&show_icons=true)
-  
-![Profile Views](https://komarev.com/ghpvc/?username=TienDungVN)
 
 <img src="https://jobs.hybrid-technologies.vn/wp-content/uploads/2020/06/andy-sm.png" width="440" height="160" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=TienDungVN)
 
 ## Contact me on:
 - [Telegram](https://t.me/dung0402)
