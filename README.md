@@ -11,3 +11,5 @@
 
 ![stat](https://github-readme-streak-stats.herokuapp.com/?user=TienDungVN&theme=dark)
 
+![Profile Viewers Badge](https://visitor-badge.laobi.icu/badge?page_id=TienDungVN)<img align="left"/>
+
