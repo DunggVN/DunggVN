@@ -6,7 +6,7 @@
   </p>
   
 <p align="left" >   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienDungVN9&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienDungVN&&show_icons=true&theme=radical"/>
   </p>
 
 ![stat](https://github-readme-streak-stats.herokuapp.com/?user=TienDungVN&theme=dark)
