@@ -11,6 +11,3 @@
 
 ![stat](https://github-readme-streak-stats.herokuapp.com/?user=TienDungVN&theme=dark)
 
-# Contact
-[![Telegram badge](https://img.shields.io/badge/My Telegram-30302f?style=flat&logo=telegram)](https://t.me/dung0402)
-
