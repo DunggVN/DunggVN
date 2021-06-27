@@ -12,7 +12,7 @@
 ## 🔭 Some Stats...
 ![Stats](https://github-readme-stats.vercel.app/api?username=TienDungVN&count_private=true&include_all_commits=true&show_icons=true)
 
-## Profile Views... 😂
+## 😂 Profile Views...
 ![Profile Views](https://komarev.com/ghpvc/?username=TienDungVN)
 
 ## 📫 Contact me on:
