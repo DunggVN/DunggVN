@@ -16,7 +16,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TienDungVN)
 
 ## 📫 Contact me on:
-[![Telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/dunggvn_smth)
+[![Telegram badge](https://img.shields.io/badge/@DunggVN_Smth-30302f?style=flat&logo=telegram)](https://t.me/dunggvn_smth)
 
 
 
