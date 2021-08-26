@@ -3,7 +3,7 @@
 
 - 🐥 I'm a 13 years old, from Vietnam 🇻🇳
 - 💬 I like to help people in my communities and learn code
-- 🌱 I like to install GSI, Custom Roms on Android
+- 🌱 I like to install GSI, Custom Roms on my phone
 
 <img src="https://jobs.hybrid-technologies.vn/wp-content/uploads/2020/06/andy-sm.png" width="440" height="170" />
 
