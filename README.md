@@ -5,7 +5,7 @@
 - 💬 I like to help people in my communities and learn code
 - 🌱 I like to install GSI, Custom Roms on my phone
 
-<img src="https://jobs.hybrid-technologies.vn/wp-content/uploads/2020/06/andy-sm.png" width="440" height="200" />
+<img src="https://jobs.hybrid-technologies.vn/wp-content/uploads/2020/06/andy-sm.png" width="440" height="220" />
 
 ---
 
