@@ -5,7 +5,7 @@
 - 💬 I like to help people in my communities and learn code
 - 🌱 I like to install GSI, Custom Roms on my phone
 
-<img src="https://jobs.hybrid-technologies.vn/wp-content/uploads/2020/06/andy-sm.png" width="440" height="170" />
+<img src="https://jobs.hybrid-technologies.vn/wp-content/uploads/2020/06/andy-sm.png" width="440" height="200" />
 
 ---
 
@@ -16,7 +16,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TienDungVN)
 
 ## 📫 Contact me on:
-[![Telegram Badge](https://img.shields.io/badge/@DunggVN_Smth-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/DunggVN_Smth)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/DunggVN)
 
 
 
