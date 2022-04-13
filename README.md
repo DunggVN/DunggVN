@@ -1,7 +1,7 @@
 ## ⚡ Some Information... <img src="https://i.pinimg.com/originals/35/d0/ba/35d0ba9d59207714c5a0a31c28706f96.gif" width="45px">
 (づ￣ 3￣)づ❤
 
-- 🐥 I'm a 14 years old, come from Vietnam 🇻🇳
+- 🐥 I'm a 14 years old, come from Vietnam
 - 💬 I like to help people in my community
 - 🌱 I like to learn coding, android development,....
 
